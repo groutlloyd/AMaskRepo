@@ -1,4 +1,3 @@
 # AMaskRepo
-Creating for testing some funnything...
-oo
-1
+Creating for testing some funny thing...
+
